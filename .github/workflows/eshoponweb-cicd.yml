@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-jwang
   LOCATION: eastasia
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: /subscriptions/113e5998-3a7a-4fe6-b34b-2d492bbd1a5a
+  SUBSCRIPTION-ID: 113e5998-3a7a-4fe6-b34b-2d492bbd1a5a
   WEBAPP-NAME: az400-webapp-jwang
 
 
